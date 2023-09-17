@@ -1,0 +1,6 @@
+ID;productInformation;targetAudiencePitch;discount;warehouse_ID
+257084f0-c6ca-4781-b490-bba943b9a63f;Fender American Professional II Stratocaster;Perfect for professional guitarists;10.00;257084f0-c6ca-4781-b490-bba943b9a63f
+04625e62-f7e3-4c9f-b91e-838a071a7ecf;Gibson Les Paul Standard '50s;Ideal for blues and rock enthusiasts;15.00;257084f0-c6ca-4781-b490-bba943b9a63f
+ca0423ba-b6b9-4640-b730-7e77e9396746;Ibanez RG550;Great for metal and shred;20.00;04625e62-f7e3-4c9f-b91e-838a071a7ecf
+742d1552-d53e-4c43-8b18-d21e2d2fcabb;PRS SE Custom 24;Versatile for all music genres;5.00;04625e62-f7e3-4c9f-b91e-838a071a7ecf
+6e31d450-861c-4fe7-844e-221466a08e6a;Yamaha Pacifica 112V;Excellent for beginners;8.00;ca0423ba-b6b9-4640-b730-7e77e9396746
